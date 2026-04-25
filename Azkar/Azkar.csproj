@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include=".gitignore\appsettings.Development.json" />
+    <Content Include=".gitignore\appsettings.json" />
+  </ItemGroup>
+
 </Project>
